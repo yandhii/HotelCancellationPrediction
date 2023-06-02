@@ -1,2 +1,2 @@
 # COMP5152-Advance-Project
-Hotel Demanding Dataset
+## This project does classification to predict the cancellation of the hotel.
